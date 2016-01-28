@@ -16,7 +16,7 @@ Open a terminal and navigate to the root of the project. Then run;
 python -m SimpleHTTPServer
 ```
 
-Open your browser and go to http://0.0.0.0:4000. You'll see a directory listing of all the files and folders in the root of the project. Simply click the link for *html* page you wish to see.
+Open your browser and go to http://0.0.0.0:8000/index.html. You'll see a listing of all the pages in the project. Simply click the link for page you wish to see.
 
 ## Contributing to this project
 
