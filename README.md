@@ -6,7 +6,7 @@ These pages are intended for use when a service is down due to maintenance or te
 
 ## Viewing the pages
 
-In order to view the pages they do need to be served by a web service. If you are using a Mac or have a version of Linux installed you should have everything you need already installed.
+In order to view the pages they do need to be served by a web service. If you are using a Mac or a version of Linux you should have everything you need already installed.
 
 ### Starting the web server
 
@@ -16,7 +16,7 @@ Open a terminal and navigate to the root of the project. Then run;
 python -m SimpleHTTPServer
 ```
 
-Open your browser and go to http://0.0.0.0:8000/index.html. You'll see a listing of all the pages in the project. Simply click the link for page you wish to see.
+Open your browser and go to http://0.0.0.0:8000. You'll see the index page listing all the pages in the project. Simply click the link for page you wish to see.
 
 ## Contributing to this project
 
