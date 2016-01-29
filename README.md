@@ -18,6 +18,12 @@ python -m SimpleHTTPServer
 
 Open your browser and go to http://0.0.0.0:8000. You'll see the index page listing all the pages in the project. Simply click the link for page you wish to see.
 
+## GOV.UK content
+
+Nearly all the assets covering images, stylesheets and javascript were sourced from GDS templates. The front office used the compiled [plain html](http://alphagov.github.io/govuk_template/) version. The back office comes from the GOV.UK [admin template](https://github.com/alphagov/govuk_admin_template). There is no static version of the admin template so the assets were stripped from an app which uses the template.
+
+As all content is currently static this means these sources will need to be checked periodically for updates, and this repo updated accordingly.
+
 ## Contributing to this project
 
 If you have an idea you'd like to contribute please log an issue.
