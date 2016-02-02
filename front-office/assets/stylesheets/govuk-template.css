@@ -706,3 +706,24 @@ button:focus,
         @media (min-width: 641px) {
           #footer .footer-meta .copyright a {
             text-align: right; } }
+
+#content:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+#content {
+  max-width: 960px;
+  margin: 30px 15px;
+}
+@media (min-width: 641px) {
+  #content {
+    margin: 30px;
+  }
+}
+@media (min-width: 1020px) {
+  #content {
+    margin: 30px auto;
+  }
+}
