@@ -26,7 +26,7 @@ As all content is currently static this means these sources will need to be chec
 
 ## Contributing to this project
 
-If you have an idea you'd like to contribute please log an issue.
+Please read the [contribution guidelines](/CONTRIBUTING.md) before submitting a pull request.
 
 All contributions should be submitted via a pull request.
 
