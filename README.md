@@ -16,6 +16,12 @@ Open a terminal and navigate to the root of the project. Then run;
 python -m SimpleHTTPServer
 ```
 
+or if you are running [Python 3](https://www.python.org/download/releases/3.0/)
+
+```bash
+python3 -m http.server
+```
+
 Open your browser and go to http://0.0.0.0:8000. You'll see the index page listing all the pages in the project. Simply click the link for page you wish to see.
 
 ## GOV.UK content
